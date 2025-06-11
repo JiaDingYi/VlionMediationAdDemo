@@ -70,7 +70,7 @@ PODS:
   - SDWebImage (5.21.1):
     - SDWebImage/Core (= 5.21.1)
   - SDWebImage/Core (5.21.1)
-  - VlionMediationAd (1.0.0):
+  - VlionMediationAd (1.0.1):
     - Ads-CN-Beta
     - Ads-CN-Beta/CSJMediation
 
@@ -123,8 +123,8 @@ SPEC CHECKSUMS:
   MentaVlionBaseSDK: fb34f93a8a6d691f37aaca568468ff04e496760f
   MentaVlionSDK: 7774adca6da72b9c6d6fb5818c20f04704e41749
   SDWebImage: f29024626962457f3470184232766516dee8dfea
-  VlionMediationAd: 034afc1f5410b84797dc559897ccadac5f8d878d
+  VlionMediationAd: c7eacb8a72d5bde56f871c2a12ab2702c2d8b4b0
 
-PODFILE CHECKSUM: 6f06fe766b8c089f0137ce2f6c7a893dc74897d8
+PODFILE CHECKSUM: da6b3f7b7ccaa24f08e7146da0248737e551ecb1
 
 COCOAPODS: 1.15.2
