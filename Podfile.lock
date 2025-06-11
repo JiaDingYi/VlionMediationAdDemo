@@ -1,0 +1,130 @@
+PODS:
+  - Ads-CN-Beta (6.9.0.7):
+    - Ads-CN-Beta/BUAdLive-Framework (= 6.9.0.7)
+    - Ads-CN-Beta/BUAdSDK (= 6.9.0.7)
+  - Ads-CN-Beta/BUAdLive-Framework (6.9.0.7):
+    - BUTTSDKFramework/LivePull-Lite (= 1.46.2.7-premium)
+  - Ads-CN-Beta/BUAdSDK (6.9.0.7)
+  - Ads-CN-Beta/BUAdTestMeasurement (6.9.0.7)
+  - Ads-CN-Beta/CSJMediation (6.9.0.7):
+    - Ads-CN-Beta/BUAdSDK
+  - BaiduMobAdSDK (5.39)
+  - BUMentaCustomAdapter (6.00.34):
+    - Ads-CN-Beta
+    - Ads-CN-Beta/CSJMediation
+    - MentaUnifiedSDK (~> 6.00.34)
+    - MentaVlionAdapter (~> 6.00.34)
+    - MentaVlionBaseSDK (~> 6.00.34)
+    - MentaVlionSDK (~> 6.00.34)
+  - BUTTSDKFramework/Core (1.46.2.7-premium)
+  - BUTTSDKFramework/LiveBase (1.46.2.7-premium):
+    - BUTTSDKFramework/Core
+    - BUTTSDKFramework/Reachability
+  - BUTTSDKFramework/LivePlayer/Base (1.46.2.7-premium):
+    - BUTTSDKFramework/Core
+    - BUTTSDKFramework/LiveBase
+    - BUTTSDKFramework/Reachability
+  - BUTTSDKFramework/LivePlayer/Lite (1.46.2.7-premium):
+    - BUTTSDKFramework/LivePlayer/Base
+    - BUTTSDKFramework/PlayerCore/LiveLite
+  - BUTTSDKFramework/LivePull-Lite (1.46.2.7-premium):
+    - BUTTSDKFramework/LivePlayer/Lite
+    - BUTTSDKFramework/Strategy/Lite
+  - BUTTSDKFramework/PlayerCore/Base (1.46.2.7-premium):
+    - BUTTSDKFramework/Core
+    - BUTTSDKFramework/Tools
+  - BUTTSDKFramework/PlayerCore/LiveLite (1.46.2.7-premium):
+    - BUTTSDKFramework/PlayerCore/Base
+    - BUTTSDKFramework/TTFFmpeg/LiveLite
+  - BUTTSDKFramework/Reachability (1.46.2.7-premium)
+  - BUTTSDKFramework/SSL (1.46.2.7-premium)
+  - BUTTSDKFramework/Strategy/Core (1.46.2.7-premium):
+    - BUTTSDKFramework/LiveBase
+    - BUTTSDKFramework/Reachability
+  - BUTTSDKFramework/Strategy/Lite (1.46.2.7-premium):
+    - BUTTSDKFramework/LivePlayer/Lite
+    - BUTTSDKFramework/Strategy/Core
+  - BUTTSDKFramework/Tools (1.46.2.7-premium):
+    - BUTTSDKFramework/SSL
+  - BUTTSDKFramework/TTFFmpeg/Base (1.46.2.7-premium):
+    - BUTTSDKFramework/Tools
+  - BUTTSDKFramework/TTFFmpeg/LiveLite (1.46.2.7-premium):
+    - BUTTSDKFramework/TTFFmpeg/Base
+  - GDTMobSDK (4.15.40)
+  - GMBaiduAdapter-Beta (5.39.0):
+    - Ads-CN-Beta/CSJMediation (>= 6.9.0.1)
+  - GMGdtAdapter-Beta (4.15.40.1):
+    - Ads-CN-Beta/CSJMediation (>= 6.9.0.5)
+  - GMKsAdapter-Beta (3.3.76.1):
+    - Ads-CN-Beta/CSJMediation (>= 6.9.0.5)
+  - KSAdSDK (3.3.76)
+  - Masonry (1.1.0)
+  - MentaUnifiedSDK (6.00.34):
+    - MentaVlionBaseSDK (~> 6.00.34)
+  - MentaVlionAdapter (6.00.34):
+    - MentaUnifiedSDK (~> 6.00.34)
+    - MentaVlionSDK (~> 6.00.34)
+  - MentaVlionBaseSDK (6.00.34)
+  - MentaVlionSDK (6.00.34):
+    - MentaVlionBaseSDK (~> 6.00.34)
+  - SDWebImage (5.21.1):
+    - SDWebImage/Core (= 5.21.1)
+  - SDWebImage/Core (5.21.1)
+  - VlionMediationAd (1.0.0):
+    - Ads-CN-Beta
+    - Ads-CN-Beta/CSJMediation
+
+DEPENDENCIES:
+  - Ads-CN-Beta/BUAdTestMeasurement (= 6.9.0.7)
+  - Ads-CN-Beta/CSJMediation (= 6.9.0.7)
+  - BaiduMobAdSDK (= 5.39)
+  - BUMentaCustomAdapter (= 6.00.34)
+  - GDTMobSDK (= 4.15.40)
+  - GMBaiduAdapter-Beta (= 5.39.0)
+  - GMGdtAdapter-Beta (= 4.15.40.1)
+  - GMKsAdapter-Beta (= 3.3.76.1)
+  - KSAdSDK (= 3.3.76)
+  - Masonry
+  - SDWebImage
+  - VlionMediationAd
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Ads-CN-Beta
+    - BaiduMobAdSDK
+    - BUMentaCustomAdapter
+    - BUTTSDKFramework
+    - GDTMobSDK
+    - GMBaiduAdapter-Beta
+    - GMGdtAdapter-Beta
+    - GMKsAdapter-Beta
+    - KSAdSDK
+    - Masonry
+    - MentaUnifiedSDK
+    - MentaVlionAdapter
+    - MentaVlionBaseSDK
+    - MentaVlionSDK
+    - SDWebImage
+    - VlionMediationAd
+
+SPEC CHECKSUMS:
+  Ads-CN-Beta: f81248a15d5bfb271dc5fe9e97498d7433829419
+  BaiduMobAdSDK: 522ceeed33720220b90188e7750ea659db30c257
+  BUMentaCustomAdapter: 6744d90e6474a8fc5c8bb216eacf02f1c27fe398
+  BUTTSDKFramework: b5d45b40003335843f05088c2373cef0b5638a9e
+  GDTMobSDK: ec2e9b392268a556e4d5e6ade6d00885d76a2cc5
+  GMBaiduAdapter-Beta: 6c65944f34c7f1b3f28f1fb1f615b0c09fc11aaa
+  GMGdtAdapter-Beta: 2d8abd4a2f64829cb029cc68f3d9fcc25b48c7e5
+  GMKsAdapter-Beta: c2f939aed3f383de0ff3b9d971671b115cac8045
+  KSAdSDK: 360e6e5f7aa510f1fac3a610f9e092778bd71b24
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MentaUnifiedSDK: 5479f5382246f9a4040fee748191a7ac75aff88b
+  MentaVlionAdapter: af288f44f7261061c6941796bb4f3085154a4345
+  MentaVlionBaseSDK: fb34f93a8a6d691f37aaca568468ff04e496760f
+  MentaVlionSDK: 7774adca6da72b9c6d6fb5818c20f04704e41749
+  SDWebImage: f29024626962457f3470184232766516dee8dfea
+  VlionMediationAd: 034afc1f5410b84797dc559897ccadac5f8d878d
+
+PODFILE CHECKSUM: 6f06fe766b8c089f0137ce2f6c7a893dc74897d8
+
+COCOAPODS: 1.15.2
