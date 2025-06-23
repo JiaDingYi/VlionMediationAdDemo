@@ -243,6 +243,10 @@
 				DEVELOPMENT_TEAM = 7TS7V48SA9;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = VlionMediationAdDemo/Info.plist;
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "请允许访问网络";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "我们需要您的位置来提供更好的服务。";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "我们需要您的位置来提供更好的服务。";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "请允许追踪";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -254,7 +258,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.VlionMediationAdDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vlion.mediation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -272,6 +276,10 @@
 				DEVELOPMENT_TEAM = 7TS7V48SA9;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = VlionMediationAdDemo/Info.plist;
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "请允许访问网络";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "我们需要您的位置来提供更好的服务。";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "我们需要您的位置来提供更好的服务。";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "请允许追踪";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -283,7 +291,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.VlionMediationAdDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vlion.mediation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";

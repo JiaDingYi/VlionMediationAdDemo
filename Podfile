@@ -7,7 +7,7 @@ target 'VlionMediationAdDemo' do
   use_frameworks!
 
   pod 'Ads-CN-Beta', '6.9.0.7', :subspecs => ['CSJMediation', 'BUAdTestMeasurement']
-  pod 'VlionMediationAd'
+  pod 'VlionMediationAd', '1.0.2'
   # GDT
   pod 'GDTMobSDK', '4.15.40'
   pod 'GMGdtAdapter-Beta', '4.15.40.1'

@@ -59,18 +59,18 @@ PODS:
     - Ads-CN-Beta/CSJMediation (>= 6.9.0.5)
   - KSAdSDK (3.3.76)
   - Masonry (1.1.0)
-  - MentaUnifiedSDK (6.00.34):
-    - MentaVlionBaseSDK (~> 6.00.34)
-  - MentaVlionAdapter (6.00.34):
-    - MentaUnifiedSDK (~> 6.00.34)
-    - MentaVlionSDK (~> 6.00.34)
-  - MentaVlionBaseSDK (6.00.34)
-  - MentaVlionSDK (6.00.34):
-    - MentaVlionBaseSDK (~> 6.00.34)
+  - MentaUnifiedSDK (6.00.35):
+    - MentaVlionBaseSDK (~> 6.00.35)
+  - MentaVlionAdapter (6.00.35):
+    - MentaUnifiedSDK (~> 6.00.35)
+    - MentaVlionSDK (~> 6.00.35)
+  - MentaVlionBaseSDK (6.00.35)
+  - MentaVlionSDK (6.00.35):
+    - MentaVlionBaseSDK (~> 6.00.35)
   - SDWebImage (5.21.1):
     - SDWebImage/Core (= 5.21.1)
   - SDWebImage/Core (5.21.1)
-  - VlionMediationAd (1.0.1):
+  - VlionMediationAd (1.0.2):
     - Ads-CN-Beta
     - Ads-CN-Beta/CSJMediation
 
@@ -86,7 +86,7 @@ DEPENDENCIES:
   - KSAdSDK (= 3.3.76)
   - Masonry
   - SDWebImage
-  - VlionMediationAd
+  - VlionMediationAd (= 1.0.2)
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
@@ -110,7 +110,7 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   Ads-CN-Beta: f81248a15d5bfb271dc5fe9e97498d7433829419
   BaiduMobAdSDK: 522ceeed33720220b90188e7750ea659db30c257
-  BUMentaCustomAdapter: 6744d90e6474a8fc5c8bb216eacf02f1c27fe398
+  BUMentaCustomAdapter: fe1266323330b712acb5b3f65ede96618fecb38a
   BUTTSDKFramework: b5d45b40003335843f05088c2373cef0b5638a9e
   GDTMobSDK: ec2e9b392268a556e4d5e6ade6d00885d76a2cc5
   GMBaiduAdapter-Beta: 6c65944f34c7f1b3f28f1fb1f615b0c09fc11aaa
@@ -118,13 +118,13 @@ SPEC CHECKSUMS:
   GMKsAdapter-Beta: c2f939aed3f383de0ff3b9d971671b115cac8045
   KSAdSDK: 360e6e5f7aa510f1fac3a610f9e092778bd71b24
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
-  MentaUnifiedSDK: 5479f5382246f9a4040fee748191a7ac75aff88b
-  MentaVlionAdapter: af288f44f7261061c6941796bb4f3085154a4345
-  MentaVlionBaseSDK: fb34f93a8a6d691f37aaca568468ff04e496760f
-  MentaVlionSDK: 7774adca6da72b9c6d6fb5818c20f04704e41749
+  MentaUnifiedSDK: 7dcdd0065bac87a39d051e431affb9daecdaa005
+  MentaVlionAdapter: 7903dc8f7757e73029c6b65e2261aef9c1ac3cea
+  MentaVlionBaseSDK: 539f2eda4aa004cde9263889897098db1c73b75e
+  MentaVlionSDK: d8015d7f74a979423e99fb186d31222f425e11c9
   SDWebImage: f29024626962457f3470184232766516dee8dfea
-  VlionMediationAd: c7eacb8a72d5bde56f871c2a12ab2702c2d8b4b0
+  VlionMediationAd: 7719919323bc5e09f2fd26b4c9dcfd3ed2f288d9
 
-PODFILE CHECKSUM: da6b3f7b7ccaa24f08e7146da0248737e551ecb1
+PODFILE CHECKSUM: 91c353abbf97f06122c5eeb8c4c5ce4515027558
 
 COCOAPODS: 1.15.2

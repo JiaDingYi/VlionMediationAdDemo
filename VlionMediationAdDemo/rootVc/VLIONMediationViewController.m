@@ -21,11 +21,13 @@
     // Do any additional setup after loading the view.
     self.view.backgroundColor = [UIColor whiteColor];
     self.demoArray = [@[
-        @[@"瑞狮聚合SDK 开屏", @"VLIONSplashViewController"],
-        @[@"瑞狮聚合SDK 激励视频", @"VLIONRewardVideoViewController"],
-        @[@"瑞狮聚合SDK 插屏", @"VLIONInterstitialViewController"],
-        @[@"瑞狮聚合SDK 信息流模版渲染", @"VLIONNativeExpressViewController"],
-        @[@"瑞狮聚合SDK 信息流自渲染", @"VLIONNativeSelfRenderViewController"],
+        @[@"瑞狮聚合SDK 开屏",          @"VLIONSplashViewController"],
+        @[@"瑞狮聚合SDK 激励视频",       @"VLIONRewardVideoViewController"],
+        @[@"瑞狮聚合SDK 插屏",          @"VLIONInterstitialViewController"],
+        @[@"瑞狮聚合SDK 信息流模版渲染",  @"VLIONNativeExpressViewController"],
+        @[@"瑞狮聚合SDK 信息流自渲染",    @"VLIONNativeSelfRenderViewController"],
+        @[@"瑞狮聚合SDK Banner",        @"VLIONBannerViewController"],
+        @[@"瑞狮聚合SDK Draw",          @"VLIONDrawViewController"],
                         ] mutableCopy];
 
     [self.view addSubview:self.tableView];
