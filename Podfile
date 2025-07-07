@@ -18,7 +18,7 @@ target 'VlionMediationAdDemo' do
   pod 'KSAdSDK', '3.3.76'
   pod 'GMKsAdapter-Beta', '3.3.76.1'
   # menta
-  pod 'BUMentaCustomAdapter', '6.00.34'
+  pod 'BUMentaCustomAdapter', '6.00.37'
   
   pod 'SDWebImage'
   pod 'Masonry'

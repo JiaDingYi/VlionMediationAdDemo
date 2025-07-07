@@ -9,13 +9,13 @@ PODS:
   - Ads-CN-Beta/CSJMediation (6.9.0.7):
     - Ads-CN-Beta/BUAdSDK
   - BaiduMobAdSDK (5.39)
-  - BUMentaCustomAdapter (6.00.34):
+  - BUMentaCustomAdapter (6.00.37):
     - Ads-CN-Beta
     - Ads-CN-Beta/CSJMediation
-    - MentaUnifiedSDK (~> 6.00.34)
-    - MentaVlionAdapter (~> 6.00.34)
-    - MentaVlionBaseSDK (~> 6.00.34)
-    - MentaVlionSDK (~> 6.00.34)
+    - MentaUnifiedSDK (~> 6.00.37)
+    - MentaVlionAdapter (~> 6.00.37)
+    - MentaVlionBaseSDK (~> 6.00.37)
+    - MentaVlionSDK (~> 6.00.37)
   - BUTTSDKFramework/Core (1.46.2.7-premium)
   - BUTTSDKFramework/LiveBase (1.46.2.7-premium):
     - BUTTSDKFramework/Core
@@ -59,14 +59,14 @@ PODS:
     - Ads-CN-Beta/CSJMediation (>= 6.9.0.5)
   - KSAdSDK (3.3.76)
   - Masonry (1.1.0)
-  - MentaUnifiedSDK (6.00.35):
-    - MentaVlionBaseSDK (~> 6.00.35)
-  - MentaVlionAdapter (6.00.35):
-    - MentaUnifiedSDK (~> 6.00.35)
-    - MentaVlionSDK (~> 6.00.35)
-  - MentaVlionBaseSDK (6.00.35)
-  - MentaVlionSDK (6.00.35):
-    - MentaVlionBaseSDK (~> 6.00.35)
+  - MentaUnifiedSDK (6.00.37):
+    - MentaVlionBaseSDK (~> 6.00.37)
+  - MentaVlionAdapter (6.00.37):
+    - MentaUnifiedSDK (~> 6.00.37)
+    - MentaVlionSDK (~> 6.00.37)
+  - MentaVlionBaseSDK (6.00.37)
+  - MentaVlionSDK (6.00.37):
+    - MentaVlionBaseSDK (~> 6.00.37)
   - SDWebImage (5.21.1):
     - SDWebImage/Core (= 5.21.1)
   - SDWebImage/Core (5.21.1)
@@ -78,7 +78,7 @@ DEPENDENCIES:
   - Ads-CN-Beta/BUAdTestMeasurement (= 6.9.0.7)
   - Ads-CN-Beta/CSJMediation (= 6.9.0.7)
   - BaiduMobAdSDK (= 5.39)
-  - BUMentaCustomAdapter (= 6.00.34)
+  - BUMentaCustomAdapter (= 6.00.37)
   - GDTMobSDK (= 4.15.40)
   - GMBaiduAdapter-Beta (= 5.39.0)
   - GMGdtAdapter-Beta (= 4.15.40.1)
@@ -110,7 +110,7 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   Ads-CN-Beta: f81248a15d5bfb271dc5fe9e97498d7433829419
   BaiduMobAdSDK: 522ceeed33720220b90188e7750ea659db30c257
-  BUMentaCustomAdapter: fe1266323330b712acb5b3f65ede96618fecb38a
+  BUMentaCustomAdapter: dcc91233597c42a5633b3cdc8c9d8ae17a956438
   BUTTSDKFramework: b5d45b40003335843f05088c2373cef0b5638a9e
   GDTMobSDK: ec2e9b392268a556e4d5e6ade6d00885d76a2cc5
   GMBaiduAdapter-Beta: 6c65944f34c7f1b3f28f1fb1f615b0c09fc11aaa
@@ -118,13 +118,13 @@ SPEC CHECKSUMS:
   GMKsAdapter-Beta: c2f939aed3f383de0ff3b9d971671b115cac8045
   KSAdSDK: 360e6e5f7aa510f1fac3a610f9e092778bd71b24
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
-  MentaUnifiedSDK: 7dcdd0065bac87a39d051e431affb9daecdaa005
-  MentaVlionAdapter: 7903dc8f7757e73029c6b65e2261aef9c1ac3cea
-  MentaVlionBaseSDK: 539f2eda4aa004cde9263889897098db1c73b75e
-  MentaVlionSDK: d8015d7f74a979423e99fb186d31222f425e11c9
+  MentaUnifiedSDK: d4b8457743655137e46b351bec1ce2560afc77cf
+  MentaVlionAdapter: 6f9a2bf9e011c1324041099144eddf458c6ee07a
+  MentaVlionBaseSDK: 06eb2e65417778846025ca5272b59c1bf2d14230
+  MentaVlionSDK: bec5b70927e7cd5f606ec0558828c0beecd5ea30
   SDWebImage: f29024626962457f3470184232766516dee8dfea
   VlionMediationAd: 7719919323bc5e09f2fd26b4c9dcfd3ed2f288d9
 
-PODFILE CHECKSUM: 91c353abbf97f06122c5eeb8c4c5ce4515027558
+PODFILE CHECKSUM: ad209b90865834ed5901408b0afa2dad63064109
 
 COCOAPODS: 1.15.2
